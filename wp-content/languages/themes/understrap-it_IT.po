@@ -1,0 +1,492 @@
+# Translation of Themes - Understrap in Italian
+# This file is distributed under the same license as the Themes - Understrap package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-04 09:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: it_IT\n"
+"Project-Id-Version: Themes - Understrap\n"
+"Language-Team: Italiano"
+
+#: inc/template-tags.php:237
+msgid "&larr; Older Comments"
+msgstr "&larr; Commenti meno recenti"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:353
+msgid ", "
+msgstr ", "
+
+#. translators: %s: author name
+#: author.php:65
+msgid "About %s"
+msgstr "Informazioni su %s"
+
+#: inc/class-wp-bootstrap-navwalker.php:377
+msgid "Add a menu"
+msgstr "Aggiungi un menu"
+
+#. translators: %s: author name
+#: author.php:44
+msgctxt "Avatar alt"
+msgid "Profile picture of %s"
+msgstr "Immagine del profilo di %s"
+
+#. Template Name of the theme
+msgid "Blank Page Template"
+msgstr "Template di pagina vuoto"
+
+#: inc/editor.php:60
+msgid "Blockquote"
+msgstr "Citazione"
+
+#: inc/editor.php:66
+msgid "Blockquote Footer"
+msgstr "Citazione Footer"
+
+#: inc/customizer.php:94
+msgid "Bootstrap 4"
+msgstr "Bootstrap 4"
+
+#: inc/customizer.php:95
+msgid "Bootstrap 5"
+msgstr "Bootstrap 5"
+
+#: inc/customizer.php:89
+msgid "Bootstrap Version"
+msgstr "Versione di Bootstrap"
+
+#: sidebar-templates/sidebar-hero.php:36
+msgctxt "carousel control"
+msgid "Next"
+msgstr "Successivo"
+
+#: sidebar-templates/sidebar-hero.php:28
+msgctxt "carousel control"
+msgid "Previous"
+msgstr "Precedente"
+
+#: inc/customizer.php:146
+msgid ""
+"Choose between an expanding and collapsing navbar or an offcanvas drawer."
+msgstr ""
+"Scegliete tra una barra di navigazione espandibile e pieghevole o un "
+"cassetto off-canvas."
+
+#: inc/customizer.php:90
+msgid "Choose between Bootstrap 4 or Bootstrap 5"
+msgstr "Scegli tra la versione 4 e la versione 5 di Bootstrap"
+
+#: inc/customizer.php:118
+msgid "Choose between Bootstrap's container and container-fluid"
+msgstr "Scegli tra il container e il container-fluid di Bootstrap"
+
+#: inc/editor.php:72
+msgid "Cite"
+msgstr "Citazione"
+
+#: global-templates/navbar-offcanvas-bootstrap5.php:45
+msgid "Close menu"
+msgstr "Chiudi menu"
+
+#: inc/customizer.php:154
+msgid "Collapse"
+msgstr "Riduci"
+
+#: inc/custom-comments.php:106
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: inc/template-tags.php:233
+msgid "Comments navigation"
+msgstr "Navigazione commenti"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:43
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s commento su &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commenti su &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un pensiero su &ldquo;%s&rdquo;"
+
+#: inc/customizer.php:117
+msgid "Container Width"
+msgstr "Larghezza container"
+
+#: inc/customizer.php:69
+msgid "Container width and sidebar defaults"
+msgstr "Larghezza container e colonna laterale di deault"
+
+#: inc/custom-header.php:54
+msgid "Default Header Image"
+msgstr "Immagine dell'header predefinita"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:260
+msgid "Edit %s"
+msgstr "Modifica %s"
+
+#. Template Name of the theme
+msgid "Empty Page Template"
+msgstr "Template di pagina vuoto"
+
+#: inc/customizer.php:122
+msgid "Fixed width container"
+msgstr "Container a larghezza fissa"
+
+#: inc/editor.php:56
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Piccolo"
+
+#: inc/widgets.php:328
+msgid "Footer Full"
+msgstr "Footer intero"
+
+#: inc/customizer.php:211
+msgid "Footer Site Info"
+msgstr "Informazioni footer del sito"
+
+#: inc/widgets.php:306
+msgid "Full size canvas hero area for Bootstrap and other custom HTML markup"
+msgstr ""
+"Area hero canvas a grandezza naturale per Bootstrap e altri markup HTML "
+"personalizzati"
+
+#: inc/widgets.php:330
+msgid "Full sized footer widget with dynamic grid"
+msgstr "Widget del footer a tutta larghezza con griglia dinamica"
+
+#: inc/widgets.php:318
+msgid "Full top widget with dynamic grid"
+msgstr "Widget alto a tutta larghezza con griglia dinamica"
+
+#: inc/customizer.php:123
+msgid "Full width container"
+msgstr "Container a larghezza intera"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Pagina larghezza intera"
+
+#: inc/widgets.php:304
+msgid "Hero Canvas"
+msgstr "Hero Canvas"
+
+#: inc/widgets.php:292
+msgid "Hero Slider"
+msgstr "Hero Slider"
+
+#: inc/widgets.php:294
+msgid "Hero slider area. Place two or more widgets here and they will slide!"
+msgstr "Slider area hero. Inserisci qui due o più widget per farli scorrere!"
+
+#. Author of the theme
+msgid "Howard Development &amp; Consulting"
+msgstr "Howard Development &amp; Consulting"
+
+#. Author URI of the theme
+msgid "https://howarddc.com"
+msgstr "https://howarddc.com"
+
+#. Theme URI of the theme
+#: inc/hooks.php:40
+msgid "https://understrap.com"
+msgstr "https://understrap.com"
+
+#: inc/hooks.php:30
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: 404.php:36
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Non è stato trovato nulla nel posto in cui stavi cercando. Forse potresti "
+"provare con una ricerca?"
+
+#: loop-templates/content-none.php:46
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Non riusciamo a trovare quello che cerchi. Forse eseguire una ricerca "
+"potrebbe essere di aiuto."
+
+#: searchform.php:21
+msgctxt "label"
+msgid "Search for:"
+msgstr "Ricerca per:"
+
+#: inc/editor.php:50
+msgid "Lead Paragraph"
+msgstr "Paragrafo principale"
+
+#. translators: %s post title
+#: inc/template-tags.php:128
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Lascia un commento<span class=\"screen-reader-text\"> su %s</span>"
+
+#: inc/customizer.php:188
+msgid "Left & Right sidebars"
+msgstr "Barra laterale sinistra & destra"
+
+#. Template Name of the theme
+msgid "Left and Right Sidebar Layout"
+msgstr "Layout barra laterale a sinitra e destra"
+
+#: inc/widgets.php:280
+msgid "Left Sidebar"
+msgstr "Barra laterale sinistra"
+
+#: inc/customizer.php:187
+msgid "Left sidebar"
+msgstr "Barra laterale sinistra"
+
+#. Template Name of the theme
+msgid "Left Sidebar Layout"
+msgstr "Layout barra laterale a sinistra"
+
+#: inc/widgets.php:282
+msgid "Left sidebar widget area"
+msgstr "Area widget barra laterale sinistra"
+
+#: global-templates/navbar-collapse-bootstrap4.php:17
+#: global-templates/navbar-collapse-bootstrap5.php:17
+#: global-templates/navbar-offcanvas-bootstrap5.php:17
+msgid "Main Navigation"
+msgstr "Navigazione principale"
+
+#: 404.php:46
+msgid "Most Used Categories"
+msgstr "Categorie più utilizzate"
+
+#: inc/template-tags.php:243
+msgid "Newer Comments &rarr;"
+msgstr "Commenti più recenti &rarr;"
+
+#: inc/template-tags.php:296
+msgctxt "Next post link"
+msgid "%title&nbsp;<i class=\"fa fa-angle-right\"></i>"
+msgstr "%title&nbsp;<i class=\"fa fa-angle-right\"></i>"
+
+#: inc/pagination.php:54
+msgctxt "next set of posts"
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: inc/customizer.php:189
+msgid "No sidebar"
+msgstr "Nessuna barra laterale"
+
+#. Template Name of the theme
+msgid "No Title, Full Width Page"
+msgstr "Nessun titolo, pagina a larghezza piena"
+
+#: loop-templates/content-none.php:18
+msgid "Nothing Found"
+msgstr "Non è stato trovato niente"
+
+#: inc/customizer.php:155
+msgid "Offcanvas"
+msgstr "Off-canvas"
+
+#: 404.php:30
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! La pagina non è stata trovata."
+
+#: global-templates/navbar-offcanvas-bootstrap5.php:33
+msgid "Open menu"
+msgstr "Apri menu"
+
+#: inc/customizer.php:212
+msgid "Override Understrap's site info located at the footer of the page."
+msgstr "Sovrascrivi le informazioni Understrap nel footer della pagina."
+
+#: inc/template-tags.php:317
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: searchform.php:23
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Cerca &hellip;"
+
+#: inc/template-tags.php:55
+msgctxt "post author"
+msgid "by"
+msgstr "di"
+
+#: inc/template-tags.php:55
+msgctxt "post author"
+msgid "Posted by"
+msgstr "Pubblicato da"
+
+#: inc/template-tags.php:41
+msgctxt "post date"
+msgid "Posted on"
+msgstr "Pubblicato il"
+
+#: inc/template-tags.php:289
+msgid "Post navigation"
+msgstr "Navigazione articoli"
+
+#. translators: %s: Categories of current post
+#: inc/template-tags.php:98
+msgid "Posted in %s"
+msgstr "Pubblicato in %s"
+
+#. translators: %s: author name
+#: author.php:79
+msgid "Posts by %s"
+msgstr "Articoli di %s"
+
+#: inc/pagination.php:56
+msgid "Posts navigation"
+msgstr "Navigazione degli articoli"
+
+#: inc/template-tags.php:293
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>&nbsp;%title"
+msgstr "<i class=\"fa fa-angle-left\"></i>&nbsp;%title"
+
+#: inc/pagination.php:53
+msgctxt "previous set of posts"
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: inc/setup.php:49
+msgid "Primary Menu"
+msgstr "Menu principale"
+
+#. translators: WordPress
+#: inc/hooks.php:33
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: inc/extras.php:245
+msgid "Read More..."
+msgstr "Leggi di più..."
+
+#. translators: 1: Link to WP admin new post page.
+#: loop-templates/content-none.php:30
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Pronto a pubblicare il tuo primo articolo? <a href=\"%1$s\">Inizia da qui</a>"
+"."
+
+#: inc/customizer.php:145
+msgid "Responsive Navigation Type"
+msgstr "Tipo di navigazione responsive"
+
+#: inc/widgets.php:268
+msgid "Right Sidebar"
+msgstr "Barra laterale destra"
+
+#: inc/customizer.php:186
+msgid "Right sidebar"
+msgstr "Barra laterale destra"
+
+#. Template Name of the theme
+msgid "Right Sidebar Layout"
+msgstr "Layout barra laterale a destra"
+
+#: inc/widgets.php:270
+msgid "Right sidebar widget area"
+msgstr "Area widget barra laterale destra"
+
+#. translators: %s: query term
+#: search.php:38
+msgid "Search Results for: %s"
+msgstr "Risultati della ricerca per: %s"
+
+#: inc/customizer.php:178
+msgid ""
+"Set sidebar's default position. Can either be: right, left, both or none. "
+"Note: this can be overridden on individual pages."
+msgstr ""
+"Imposta la posizione di default della barra laterale. Può essere: destra, "
+"sinistra, entrambe o nessuna. Nota: questa impostazione può essere "
+"sovrascritta individualmente in ogni pagina."
+
+#: inc/customizer.php:177
+msgid "Sidebar Positioning"
+msgstr "Posizione barra laterale"
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Vai al contenuto"
+
+#: loop-templates/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Non c’è nessuna corrispondenza con i termini di ricerca che hai indicato. "
+"Riprova con termini diversi."
+
+#: searchform.php:25 searchform.php:28
+msgctxt "submit button"
+msgid "Search"
+msgstr "Cerca"
+
+#. translators: %s: Tags of current post
+#: inc/template-tags.php:111
+msgid "Tagged %s"
+msgstr "Taggato %s"
+
+#. Description of the theme
+msgid ""
+"The renowned WordPress starter theme framework that combined Underscores and "
+"Bootstrap. Trusted by more than 100,000 developers for building handcrafted, "
+"custom WordPress sites."
+msgstr ""
+"Il famoso framework per temi iniziali di WordPress unito a Underscores e "
+"Bootstrap. Affidato a più di 100.000 sviluppatori per la creazione di siti "
+"WordPress personalizzati e codificati a mano."
+
+#: inc/customizer.php:67
+msgid "Theme Layout Settings"
+msgstr "Impostazioni del layout del tema"
+
+#. translators: 1: Theme name, 2: Theme author
+#: inc/hooks.php:38
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s di %2$s."
+
+#: global-templates/navbar-collapse-bootstrap4.php:34
+#: global-templates/navbar-collapse-bootstrap5.php:33
+msgid "Toggle navigation"
+msgstr "Attiva/disattiva la navigazione"
+
+#: inc/widgets.php:316
+msgid "Top Full"
+msgstr "Larghezza piena in alto"
+
+#. translators: %1$s: smiley
+#: 404.php:69
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prova a guardare nell'archivio mensile. %1$s"
+
+#. Theme Name of the theme
+msgid "Understrap"
+msgstr "Understrap"
+
+#. translators: Theme version
+#: inc/hooks.php:44
+msgid "Version: %s"
+msgstr "Versione: %s"
+
+#: author.php:54
+msgid "Website"
+msgstr "Sito web"
